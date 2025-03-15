@@ -7,3 +7,16 @@ Sys-info app that shows your computer's system's information locally.
   <source srcset="./pictures/og-light.png" media="(prefers-color-scheme: light)">
   <img src="./pictures/og-light.png">
 </picture>
+
+# Usage
+
+Install dependencies:
+
+```
+pnpm install
+```
+
+Run locally:
+```
+pnpm run dev
+```
